@@ -1,5 +1,9 @@
 # List Rendering in JavaScript
 
+Water Water Everywhere, Not a Drop to drink!
+Data Data Everywhere, Not a Developer to render (it on the page or server)!
+It's Time to fix that for JavaScript guys!
+
 ## List Rendering in Vanilla JavaScript (& Node)
 
 Within this codebase. The Main file is [this](./js/script.js).
@@ -18,3 +22,7 @@ Not in this codebase. Instead see this on codepen => https://codepen.io/IamManch
 ## List Rendering in Vue
 
 Not in this codebase. Instead see this on codepen => https://codepen.io/IamManchanda/pen/QPLbKx?editors=1010
+
+## Contribute for more frameworks
+
+I know only React & Vue at this moment of my career so added just for them but you are welcome to contribute with your favourite framework.
