@@ -1,7 +1,7 @@
 # List Rendering in JavaScript
 
-Water Water Everywhere, Not a Drop to drink!
-Data Data Everywhere, Not a Developer to render (it on the page or server)!
+Water Water Everywhere, Not a Drop to drink! <br />
+Data Data Everywhere, Not a Developer to render (it on the page or server)! <br />
 It's Time to fix that for JavaScript guys!
 
 ## List Rendering in Vanilla JavaScript (& Node)
@@ -17,11 +17,11 @@ To Run this on Dev Console, Please do the following:
 
 ## List Rendering in React
 
-Not in this codebase. Instead see this on codepen => https://codepen.io/IamManchanda/pen/BEBaWb?editors=1010
+Not in this codebase. Instead see that on this codepen => https://codepen.io/IamManchanda/pen/BEBaWb?editors=1010
 
 ## List Rendering in Vue
 
-Not in this codebase. Instead see this on codepen => https://codepen.io/IamManchanda/pen/QPLbKx?editors=1010
+Not in this codebase. Instead see that on this codepen => https://codepen.io/IamManchanda/pen/QPLbKx?editors=1010
 
 ## Contribute for more frameworks
 
