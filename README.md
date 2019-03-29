@@ -1,7 +1,7 @@
 # List Rendering in JavaScript
 
 Water Water Everywhere, Not a Drop to drink! <br />
-Data Data Everywhere, Not a Developer to render (it on the page or server)! <br />
+Data Data Everywhere, Not a Developer to render(it on the page or server)! <br />
 It's Time to fix that for JavaScript guys!
 
 ## List Rendering in Vanilla JavaScript (& Node)
@@ -9,7 +9,7 @@ It's Time to fix that for JavaScript guys!
 Within this codebase. The Main file is [this](./js/script.js).
 
 To Run this on Dev Console, Please do the following:
-- Install Node
+- Install [Node](https://nodejs.org)
 - Fork and clone this project
 - `cd` into this project
 - Run `npm start`
