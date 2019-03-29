@@ -1,3 +1,5 @@
+/* `duration` variable and `setTimeout()` is just for demo. */
+
 const duration = 500;
 const myArr = [1, 2, 3];
 const myObj = { a: 1, b: 2, c: 3 };

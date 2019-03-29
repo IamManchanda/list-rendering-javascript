@@ -2,8 +2,9 @@
 
 ## List Rendering in Vanilla JavaScript (& Node)
 
-Within this codebase! Please do the following:
+Within this codebase. The Main file is [this](./js/script.js).
 
+To Run this on Dev Console, Please do the following:
 - Install Node
 - Fork and clone this project
 - `cd` into this project
