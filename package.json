@@ -1,0 +1,13 @@
+{
+  "name": "list-rendering-vanilla-react-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Harry Manchanda",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
