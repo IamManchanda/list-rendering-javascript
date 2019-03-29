@@ -12,7 +12,7 @@ Within this codebase! Please do the following:
 
 ## List Rendering in React
 
-Not in this codebase. Instead see this on codepen => https://codepen.io/IamManchanda/pen/BEBaWb?editors=0010
+Not in this codebase. Instead see this on codepen => https://codepen.io/IamManchanda/pen/BEBaWb?editors=1010
 
 ## List Rendering in Vue
 
